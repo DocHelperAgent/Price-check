@@ -1,0 +1,7 @@
+{
+  "name": "PriceLens - Smart Price Comparison",
+  "description": "A modern mobile-first price checking app that uses Gemini to identify products via camera scan or search and compares real-time prices across major retailers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
